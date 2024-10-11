@@ -10,8 +10,8 @@
 
 .paymants-h3 {
   text-align: left;
-  font-size: 24pt;
-  font-weight: Bold;
+  font-size: 24px;
+  font-weight: 600;
   letter-spacing: 0.04em;
   color: #2e2e2e;
   margin-bottom: 37px;
@@ -19,7 +19,7 @@
 
 .paymants__table-tr > th {
   text-align: left;
-  font-size: 14pt;
+  font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.04em;
   color: #2e2e2e;

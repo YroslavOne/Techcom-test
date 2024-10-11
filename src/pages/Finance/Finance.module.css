@@ -7,7 +7,7 @@
 }
 
 .finance__h1 {
-  font-size: 48pt;
+  font-size: 48px;
   font-weight: Bold;
   letter-spacing: 0.04em;
   line-height: 54pt;
@@ -16,8 +16,8 @@
 
 .finance__p {
   text-align: left;
-  max-width: 416px;
-  font-size: 13pt;
+  max-width: 360px;
+  font-size: 13px;
   font-weight: Bold;
   letter-spacing: 0.04em;
   line-height: 19pt;
@@ -40,7 +40,7 @@
   }
 
   .finance__h1 {
-    font-size: 48pt;
+    font-size: 48px;
     font-weight: Bold;
     letter-spacing: 0.04em;
     line-height: 54pt;
@@ -49,8 +49,8 @@
 
   .finance__p {
     text-align: left;
-    max-width: 416px;
-    font-size: 13pt;
+    max-width: 360px;
+    font-size: 13px;
     font-weight: Bold;
     letter-spacing: 0.04em;
     line-height: 19pt;

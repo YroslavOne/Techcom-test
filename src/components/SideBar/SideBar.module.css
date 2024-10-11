@@ -9,7 +9,7 @@
 }
 .sidebar__company {
   margin-top: 39px;
-  font-size: 30pt;
+  font-size: 30px;
   font-weight: Bold;
   letter-spacing: 0.04em;
   line-height: 54pt;
@@ -32,7 +32,7 @@
   text-decoration: none;
   cursor: pointer;
   list-style: none;
-  font-size: 17pt;
+  font-size: 17px;
   letter-spacing: 0.04em;
   line-height: 48pt;
   font-weight: 400;
@@ -51,7 +51,7 @@
   }
   .sidebar__company {
     margin-top: 39px;
-    font-size: 30pt;
+    font-size: 30px;
     font-weight: Bold;
     letter-spacing: 0.04em;
     line-height: 54pt;
@@ -74,7 +74,7 @@
     text-decoration: none;
     cursor: pointer;
     list-style: none;
-    font-size: 17pt;
+    font-size: 17px;
     letter-spacing: 0.04em;
     line-height: 48pt;
     font-weight: 400;
@@ -83,7 +83,7 @@
 }
 @media (max-width: 1599px) {
   .sidebar__company {
-    font-size: 25pt;
+    font-size: 25px;
   }
   .sidebar__link {
     margin-left: 0;
@@ -91,10 +91,10 @@
 }
 @media (max-width: 1280px) {
   .sidebar__company {
-    font-size: 20pt;
+    font-size: 20px;
   }
   .sidebar__link {
-    font-size: 12pt;
+    font-size: 12px;
   }
 }
 @media (max-width: 1024px) {

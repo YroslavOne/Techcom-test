@@ -28,8 +28,8 @@
   height: 24px;
 }
 .account-card__summa {
-  font-size: 21pt;
-  font-weight: Bold;
+  font-size: 21px;
+  font-weight: 600;
   letter-spacing: 0.04em;
   color: #2e2e2e;
   margin-top: 24px;
@@ -43,7 +43,7 @@
 }
 .account-card__name {
   font-size: 16px;
-  font-weight: Bold;
+  font-weight: 600;
   letter-spacing: 0.04em;
   color: #2e2e2e;
   margin-top: 14px;
@@ -55,7 +55,7 @@
 }
 .account-card__account {
   font-size: 12px;
-  font-weight: Bold;
+  font-weight: 500;
   letter-spacing: 0.04em;
   color: #2e2e2e;
   margin-top: 14px;

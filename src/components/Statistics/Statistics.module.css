@@ -2,14 +2,14 @@
   width: 227px;
   padding: 24px 25px;
   background-color: #f4f5f7;
-  height: 320px;
+  height: 250px;
   border-radius: 10px;
 }
 
 .statistics__h3 {
   text-align: left;
-  font-size: 24pt;
-  font-weight: semiBold;
+  font-size: 24px;
+  font-weight: 600;
   letter-spacing: 0.04em;
   color: #2e2e2e;
   margin-bottom: 42px;
@@ -21,8 +21,8 @@
 
 .statistics__name-h4 {
   text-align: left;
-  font-size: 24pt;
-  font-weight: 400;
+  font-size: 24px;
+  font-weight: 600;
   letter-spacing: 0.04em;
   color: #2e2e2e;
   text-transform: uppercase;
@@ -34,8 +34,8 @@
 
 .statistics__name-inn {
   text-align: left;
-  font-size: 12pt;
-  font-weight: 400;
+  font-size: 12px;
+  font-weight: 500;
   letter-spacing: 0.04em;
   color: #2e2e2e;
 }
@@ -45,7 +45,7 @@
 
 .statistics__month-title {
   text-align: left;
-  font-size: 16pt;
+  font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.04em;
   color: #2e2e2e;
@@ -54,8 +54,8 @@
 
 .statistics__month-money {
   text-align: left;
-  font-size: 21pt;
-  font-weight: 400;
+  font-size: 21px;
+  font-weight: 600;
   letter-spacing: 0.04em;
   color: #2e2e2e;
   margin-bottom: 26px;
@@ -66,14 +66,14 @@
     width: 227px;
     padding: 24px 25px;
     background-color: #f4f5f7;
-    height: 320px;
+    height: 300px;
     border-radius: 10px;
   }
 
   .statistics__h3 {
     text-align: left;
-    font-size: 24pt;
-    font-weight: semiBold;
+    font-size: 24px;
+    font-weight: 600;
     letter-spacing: 0.04em;
     color: #2e2e2e;
     margin-bottom: 42px;
@@ -85,8 +85,8 @@
 
   .statistics__name-h4 {
     text-align: left;
-    font-size: 24pt;
-    font-weight: 400;
+    font-size: 24px;
+    font-weight: 600;
     letter-spacing: 0.04em;
     color: #2e2e2e;
     text-transform: uppercase;
@@ -98,8 +98,8 @@
 
   .statistics__name-inn {
     text-align: left;
-    font-size: 12pt;
-    font-weight: 400;
+    font-size: 12px;
+    font-weight: 500;
     letter-spacing: 0.04em;
     color: #2e2e2e;
   }
@@ -109,7 +109,7 @@
 
   .statistics__month-title {
     text-align: left;
-    font-size: 16pt;
+    font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.04em;
     color: #2e2e2e;
@@ -118,8 +118,8 @@
 
   .statistics__month-money {
     text-align: left;
-    font-size: 21pt;
-    font-weight: 400;
+    font-size: 21px;
+    font-weight: 600;
     letter-spacing: 0.04em;
     color: #2e2e2e;
     margin-bottom: 26px;
@@ -128,6 +128,7 @@
 @media (max-width: 1599px) {
   .statistics {
     width: 100%;
+    height: 320px;
   }
   .statistics {
     padding: 20px;
